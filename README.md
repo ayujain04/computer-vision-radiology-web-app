@@ -8,3 +8,7 @@ Web app available at this link:
 https://z2gn5uelsbnjymue.anvil.app/VSIOVPU2SKB2HS3PHIXB2TNB
 
 In order to run this application, server hosting the model through jupyter notebook must be running.
+
+Wrote a research paper on the development of the models (posted in the repository). 
+
+Invited to present to high school students on how to get involved with machine learning, resources to learn computer vision, and explained my models at a high level.
